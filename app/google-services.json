@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494546918587",
+    "project_id": "daniyalahmed-6cf8c",
+    "storage_bucket": "daniyalahmed-6cf8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494546918587:android:56025bb72cb39132815d9e",
+        "android_client_info": {
+          "package_name": "com.example.daniyalahmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4Vz4DAjFhpnLPWzGl4XzBz2ye9Yea9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
